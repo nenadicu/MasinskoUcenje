@@ -1,0 +1,40 @@
+
+*** RESULTS ***
+Kernel: Gaussian
+Iterations: 500
+Lambda: 0.26
+Weights for distance calculation: [4.7, 8.1, 2.9, 0.9, 0.5]
+Highest 5 errors: [22246.739609310695, 22248.894879576983, 22295.842124239887, 22377.381071681397, 22427.25525706834]
+Median error: 21550.781282779764
+Mean error: 21555.796359830474
+
+
+*** RESULTS ***
+Kernel: Gaussian
+Iterations: 500
+Lambda: 0.26
+Weights for distance calculation: [4.7, 8.1, 2.9, 0.9, 0.5]
+Highest 5 errors: [22180.605325792378, 22223.513544913694, 22285.263028260517, 22347.61376796825, 22511.867593228828]
+Median error: 21562.461417217277
+Mean error: 21565.08788315326
+
+
+*** RESULTS ***
+Kernel: Gaussian
+Iterations: 500
+Lambda: 0.26
+Weights for distance calculation: [4.7, 8.1, 2.9, 0.9, 0.5]
+Highest 5 errors: [22109.734231901573, 22142.120043735493, 22238.342305052956, 22299.92288828083, 22353.72104015315]
+Median error: 21563.663636351375
+Mean error: 21569.09844608097
+
+
+*** RESULTS ***
+Kernel: Gaussian
+Iterations: 500
+Lambda: 0.26
+Weights for distance calculation: [4.7, 8.1, 2.9, 0.9, 0.5]
+Highest 5 errors: [21504.334575745022, 21513.33949813174, 21528.71314139454, 21619.136960197044, 21860.76502334675]
+Median error: 20962.365195020455
+Mean error: 20963.494823825058
+
